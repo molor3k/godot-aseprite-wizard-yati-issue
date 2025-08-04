@@ -1,0 +1,11 @@
+[gd_scene load_steps=2 format=3 uid="uid://dbtbh5h72c0mq"]
+
+[ext_resource type="PackedScene" uid="uid://bpr4qhyjca8tq" path="res://tiled/sample-map.tmx" id="1_s6dok"]
+
+[node name="Scene" type="Node2D"]
+
+[node name="TMX" type="Node2D" parent="."]
+
+[node name="sample-map" parent="TMX" instance=ExtResource("1_s6dok")]
+
+[editable path="TMX/sample-map"]

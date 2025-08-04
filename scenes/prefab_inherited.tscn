@@ -1,0 +1,5 @@
+[gd_scene load_steps=2 format=3 uid="uid://c7m6ua5qsd0ec"]
+
+[ext_resource type="PackedScene" uid="uid://b48ni4a18v4qg" path="res://scenes/prefab.tscn" id="1_n5iaa"]
+
+[node name="PrefabInherited" instance=ExtResource("1_n5iaa")]
