@@ -1,0 +1,1 @@
+# godot-aseprite-wizard-yati-issue
